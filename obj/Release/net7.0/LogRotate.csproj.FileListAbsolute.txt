@@ -1,0 +1,15 @@
+C:\Users\monster\Desktop\LogRotate\LogRotate\bin\Release\net7.0\LogRotate.exe
+C:\Users\monster\Desktop\LogRotate\LogRotate\bin\Release\net7.0\LogRotate.deps.json
+C:\Users\monster\Desktop\LogRotate\LogRotate\bin\Release\net7.0\LogRotate.runtimeconfig.json
+C:\Users\monster\Desktop\LogRotate\LogRotate\bin\Release\net7.0\LogRotate.dll
+C:\Users\monster\Desktop\LogRotate\LogRotate\bin\Release\net7.0\LogRotate.pdb
+C:\Users\monster\Desktop\LogRotate\LogRotate\obj\Release\net7.0\LogRotate.csproj.AssemblyReference.cache
+C:\Users\monster\Desktop\LogRotate\LogRotate\obj\Release\net7.0\LogRotate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\monster\Desktop\LogRotate\LogRotate\obj\Release\net7.0\LogRotate.AssemblyInfoInputs.cache
+C:\Users\monster\Desktop\LogRotate\LogRotate\obj\Release\net7.0\LogRotate.AssemblyInfo.cs
+C:\Users\monster\Desktop\LogRotate\LogRotate\obj\Release\net7.0\LogRotate.csproj.CoreCompileInputs.cache
+C:\Users\monster\Desktop\LogRotate\LogRotate\obj\Release\net7.0\LogRotate.dll
+C:\Users\monster\Desktop\LogRotate\LogRotate\obj\Release\net7.0\refint\LogRotate.dll
+C:\Users\monster\Desktop\LogRotate\LogRotate\obj\Release\net7.0\LogRotate.pdb
+C:\Users\monster\Desktop\LogRotate\LogRotate\obj\Release\net7.0\LogRotate.genruntimeconfig.cache
+C:\Users\monster\Desktop\LogRotate\LogRotate\obj\Release\net7.0\ref\LogRotate.dll

@@ -1,0 +1,5 @@
+C:\Users\monster\Desktop\LogRotate\LogRotate.exe
+C:\Users\monster\Desktop\LogRotate\LogRotate.dll
+C:\Users\monster\Desktop\LogRotate\LogRotate.deps.json
+C:\Users\monster\Desktop\LogRotate\LogRotate.runtimeconfig.json
+C:\Users\monster\Desktop\LogRotate\LogRotate.pdb
